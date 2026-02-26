@@ -1,6 +1,5 @@
 import random
 
-
 class QLearningAgent:
     """
     Q-learning agent for a grid world with:
